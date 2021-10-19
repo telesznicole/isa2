@@ -1,0 +1,19 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "summ.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.5",
+    "jest-environment-mongodb": "^1.0.5",
+    "mongodb-memory-server": "^7.4.4"
+  },
+  "dependencies": {
+    "mongodb": "^4.1.3"
+  }
+}

@@ -1,0 +1,4 @@
+use('mydb')
+
+db.orders.deleteMany({})
+db.customers.deleteMany({})
